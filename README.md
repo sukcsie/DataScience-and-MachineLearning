@@ -1,1 +1,2 @@
-# This repository will have some code for Data Science and Machine Learning
+# Dasta Science and Machine Learning
+This repository will have some handy code related to Data Scince involving different machine learning concepts
